@@ -1,0 +1,14 @@
+{
+  "name": "com.datlycan.blackboardsystem",
+  "version": "1.0.0",
+  "displayName": "Blackboard System",
+  "description": "Blackboard System framework for shared data integration for diverse specialized modules.",
+  "unity": "2022.3",
+  "gitDependencies": {
+    "com.datlycan.utils": "https://github.com/DatLycan/Unity-Utils.git"
+  },
+  "author": {
+    "name": "DatLycan",
+    "url": "https://github.com/DatLycan"
+  }
+}
