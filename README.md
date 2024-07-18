@@ -11,7 +11,7 @@
 
 ---
 
-<p align="left"> A shared data framework for implementing systems that integrate diverse and specialized modules, enabling effective control strategies and seamless module interaction.
+<p align="left"> Blackboard System framework for shared data integration for diverse specialized modules.
     <br> 
 </p>
 
